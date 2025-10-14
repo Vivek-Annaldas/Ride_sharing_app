@@ -1,18 +1,3 @@
-// ---------------------------------------------------------------
-// Project: Ride Sharing App (like Uber/Ola)
-// Language: Java
-// Goal: Mini functional console project demonstrating OOP concepts
-// ---------------------------------------------------------------
-// Features:
-// ✅ Interface: FareCalculator
-// ✅ Abstract Class: Vehicle
-// ✅ Concrete Classes: Auto, Hatchback, Sedan
-// ✅ Polymorphism: Different fare calculation per vehicle
-// ✅ Anonymous Class: Simulates trip progress (thread)
-// ✅ Encapsulation + Class Design: Rider, Driver, Trip
-// ✅ Functional Console Menu
-// ---------------------------------------------------------------
-
 import java.util.*;
 
 // ========== INTERFACE ==========
@@ -289,3 +274,4 @@ public class RideSharingApp {
         }
     }
 }
+
